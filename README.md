@@ -20,3 +20,4 @@ Improve performance
 Add documentation
 Polish UI layout
 Improve logging
+Clean up codebase
